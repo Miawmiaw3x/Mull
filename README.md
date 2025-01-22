@@ -1,5 +1,5 @@
 # Mull
-<P> Nama : Andre </p>
-<P> Kelas : 12 </p>
-<P> Sekolah : Bhapra btg </p>
-<P> jurusan : RPL </p>
+<P> <b>Nama</b> : Andre </p>
+<P> <b>Kelas</b> : 12 </p>
+<P> <b>Sekolah</b> : Bhapra btg </p>
+<P> <B>jurusan</B> : RPL </p>
